@@ -4,6 +4,6 @@ Este projeto foi entregue como parte do **Fullstack Academy** (edição FutibaCl
 
 **Participante:** Erick Victor de Melo Bernardo
 
-**Chave do Certificado:** 377B-1939-96DC-A06C
+**Chave do Certificado:** 1F90-AEA1-8231-4789
 
 O certificado pode ser consultado em: https://certificados.devpleno.com
