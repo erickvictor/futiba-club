@@ -1,12 +1,8 @@
-# Futiba Club
-Nome: Erick Victor de Melo Bernardo
-E-mail: erickvictor@gmail.com
-
 ## Informações importantes:
 
 Este projeto foi entregue como parte do **Fullstack Academy** (edição FutibaClub) promovido pelo **DevPleno** (www.devpleno.com).
 
-**Participante:** null
+**Participante:** Erick Victor de Melo Bernardo
 
 **Chave do Certificado:** 377B-1939-96DC-A06C
 
